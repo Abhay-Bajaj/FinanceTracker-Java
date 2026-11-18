@@ -5,8 +5,7 @@ expenses, and monitor their monthly spending through a simple dashboard.
 
 ## About the Project
 
-This project started as a fun way to revisit my original [Python FinanceTracker](https://github.com/Abhay-Bajaj/
-FinanceTracker), which I built using Python and Streamlit.
+This project started as a fun way to revisit my original [Python FinanceTracker](https://github.com/Abhay-Bajaj/FinanceTracker), which I built using Python and Streamlit.
 
 I wanted to challenge myself by rebuilding the application with a different technology stack while keeping the features 
 I enjoyed from the original. This gave me an opportunity to strengthen my Java skills, explore Spring Boot, and gain 
